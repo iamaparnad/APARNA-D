@@ -1,5 +1,7 @@
 # APARNA-D
 
-https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif
+<br>
 
-its me ..."Aparna!!!" https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
+## 📊 My Github Stats
+![Prejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RYZNWick&theme=vue&show_icons=true&hide_border=true&count_private=true)
+![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RYZNWick&theme=vue&show_icons=true&hide_border=true&count_private=true)
